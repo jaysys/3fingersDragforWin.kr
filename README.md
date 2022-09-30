@@ -21,9 +21,12 @@ A windows app that allows the macos three fingers drag, using the Raw Inputs of 
 
 ## 빌드 및 실행
 - Visual Studio Code설치, .Net 6.0설치하고
-  https://code.visualstudio.com/download
-  https://dotnet.microsoft.com/en-us/download/visual-studio-sdks
+```
+https://code.visualstudio.com/download
+https://dotnet.microsoft.com/en-us/download/visual-studio-sdks
+```
 - 본 소스를 다운 받아 아래와 같이 빌드하면 됩니다.
+
 
 ## Requirements
 - .NET 6.0
