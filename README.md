@@ -2,6 +2,11 @@
 [![TotalDownloads](https://img.shields.io/github/downloads/clementgre/ThreeFingersDragOnWindows/total)](https://github.com/clementgre/ThreeFingersDragOnWindows/releases/latest)
 [![LatestDownloads](https://img.shields.io/github/downloads/clementgre/ThreeFingersDragOnWindows/latest/total)](https://github.com/clementgre/ThreeFingersDragOnWindows/releases/latest)
 
+# 사용전 설정사항
+- 설정 >> 장치 >> 터치패드 >> "세손가락 제스처"에서 "없음"으로 셋팅해놓으세요. 
+- 그렇게 해놓으면 해당 세 손가락 제스처 기능은 본 설치프로그램 설치후에 셋팅되는  "세 손가락 드래그 기능"으로 대체됩니다.  
+- 맥에서 자주 사용하는 세 손가락 윈도우 창 드래그 기능사용을 위해서 구현된 앱입니다.
+
 # ThreeFingersDragOnWindows
 
 A windows app that allows the macos three fingers drag, using the Raw Inputs of precision touchpad.
